@@ -1,4 +1,8 @@
-# DT Assignment - Yr. 9 2021 (EDIT: I got an 'A+'!)
+# DT Assignment - Yr. 9 2021
+
+> EDIT: I got an 'A+'!<br>
+> <img src="Site%20Files/images/mark.jpg" width="30%">
+
 ### Website Design Assessment Task
 Available via:
 * [Raw Code](https://github.com/TurnipGuy30/DT-Assignment-Yr-9-2021/tree/main/Site%20Files)
