@@ -1,4 +1,4 @@
-# DT Assignment - Yr. 9 2021
+# HTML Assignment - Yr. 9 2021
 
 > EDIT: I got an 'A+'!<br>
 > <img src="Site%20Files/images/mark.jpg" width="30%">
